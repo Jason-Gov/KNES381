@@ -13,9 +13,10 @@
           r x π = 31.45 </code></h4>
           <h5> <code> cd desktop </code> </h5>
           <h6> <p> save this document by pressing <kbd> Ctrl + S </kbd> and you would turn off your laptop with <kbd> Alt + F4 </kbd></p>
-
 </html>
-| Criterias | A<sup>+</sup> | A | A<sup>-</sup> | B<sup>+</sup> | B | B<sup>-</sup> |
-|:--|:--:|:--:|:--:|:--:|:--:|:--:|
-| Grade Required | 96% | 92% | 88% | 84% | 80% | 76% |
-<p> |Any questions of the following or for the class click <a href="https://d2l.ucalgary.ca/d2l/le/content/720723/viewContent/7413876/View">here</a>| </p>
+
+
+| Criterias | A<sup>+</sup> | A | A<sup>-</sup> | B<sup>+<sup> | B | B<sup>-</sup> |
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| Grade Required | 96.0-100% | 92.0-95.9% | 88.0-91.9% | 84.0-87.9% | 80.0-83.9% | 76.0-79.9% |
+<p>Any questions for the following or for the class click <a href="https://d2l.ucalgary.ca/d2l/le/content/720723/viewContent/7413876/View">here</a></p>

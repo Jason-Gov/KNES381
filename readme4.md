@@ -12,5 +12,6 @@
           r = 10; 
           r x π = 31.45 </code></h4>
           <h5> <code> cd desktop </code> </h5>
+          <h6> <p> save this document by pressing <kbd> Ctrl + S </kbd></p>
   </head>
 </html>

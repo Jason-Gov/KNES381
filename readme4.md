@@ -10,7 +10,6 @@
         <h4>  <code> π = 3.1415;
           r = 10; 
           r x π = 31.45 </code></h4>
-          <h5> <code> cd desktop </code> </h5>
           <h6> <p> save this document by pressing <kbd> Ctrl + S </kbd> and you would turn off your laptop with <kbd> Alt + F4 </kbd></p>
             <table>
               <tr>

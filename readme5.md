@@ -7,7 +7,7 @@
 </html>
 
 To play this game, use arrow keys. There are three levels with increasing difficulties with more obsticles and the character being slightly faster and bigger. 
-To win, you have to get to the crown of all three levels before the time limit of 800 seconds ends. If the 800 seconds are up, you would lose the game and would need to restart the game. 
+To win, you have to get to the crown of all three levels before the time limit of 800 seconds ends. If the 500 seconds are up, you would lose the game and would need to restart the game. 
 I have set the game to where touching the wall would trigger a penalty where you would move backwards a few steps opposite of the direction you went 
 (if you hit the wall going left, you get moved back to the right, if you hit the wall going down, you get moved back upwards an vis versa).
 The main reason I did this and not have the game immediately reset if you touch the black lines is to make the game more playable. 
